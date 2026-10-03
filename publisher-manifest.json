@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "75652bbef777b5741c53e464",
+  "owner": "kbhmnhxuf",
+  "repo": "page-d33936cc51368a07079a712b",
+  "title": "回声云(EchoCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d33936cc51368a07079a712b",
+      "a": "回声云(EchoCloud)",
+      "b": "",
+      "entity": "回声云(EchoCloud)",
+      "brand": "回声云(EchoCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "93630b861b98949278c1b0c7d87b95e942ff516b4e56ece45ba21a555cbded01",
+      "content": {
+        "keyword1": "回声云(EchoCloud)",
+        "keyword2": "",
+        "primary_entity": "回声云(EchoCloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "回声云(EchoCloud)提供高性价比机场订阅与VPN梯子加速，支持多设备在线、全球节点与流媒体解锁，官网可完成客户端下载与配置流程说明。",
+          "AI_DESCRIPTION": "回声云(EchoCloud)提供高性价比机场订阅与VPN梯子加速，支持多设备在线、全球节点与流媒体解锁，官网可完成客户端下载与配置流程说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#FFF9F4;color:#3D2C29;line-height:1.7;font-size:16px;}a{color:#C45C4A;text-decoration:none;}a:hover{text-decoration:underline;}header{background:#FFF3EB;padding:12px 16px;border-bottom:2px solid #E8A090;}nav{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;max-width:960px;margin:0 auto;}nav a{padding:6px 10px;font-weight:600;}.hero{text-align:center;padding:72px 20px 48px;max-width:800px;margin:0 auto;}h1{font-size:clamp(1.8rem,5vw,2.6rem);color:#C24738;margin:0 0 16px;letter-spacing:0.02em;line-height:1.3;}.hero p{font-size:1.1rem;color:#5C4038;max-width:36em;margin:0 auto;}main{max-width:860px;margin:0 auto;padding:0 18px 48px;}h2{font-size:1.45rem;color:#B03A2E;margin:48px 0 16px;padding-bottom:8px;border-bottom:2px solid #F0C4B8;}h3{font-size:1.15rem;color:#8B3A30;margin:24px 0 8px;}p,li{margin:0 0 12px;}ul{padding-left:1.2em;}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:24px 0;}.plan{flex:1 1 240px;background:#FFFFFF;border:1px solid #F0C4B8;border-radius:8px;padding:20px;min-width:0;}.plan.featured{border-color:#C45C4A;background:#FFF5F0;box-shadow:0 0 0 2px #E8A090;}.plan h3{margin-top:0;color:#C24738;}.price{font-size:1.4rem;font-weight:700;color:#C45C4A;margin:8px 0;}.annual{font-size:0.9rem;color:#7A534A;}.steps{counter-reset:step;}.step{position:relative;padding-left:48px;margin-bottom:20px;}.step:before{counter-increment:step;content:counter(step);position:absolute;left:0;top:0;width:32px;height:32px;background:#C45C4A;color:#fff;border-radius:50%;text-align:center;line-height:32px;font-weight:700;}details{background:#fff;border:1px solid #E8A090;border-radius:6px;margin:10px 0;padding:4px 14px;}summary{font-weight:600;padding:10px 0;color:#8B3A30;}details p{padding-bottom:10px;}footer{background:#3D2C29;color:#F8EDE8;padding:32px 18px;font-size:0.92rem;}footer a{color:#F0C4B8;}.footer-inner{max-width:860px;margin:0 auto;}.footer-grid{display:flex;flex-wrap:wrap;gap:24px;}.footer-col{flex:1 1 180px;}.ad-box{background:#FFF3EB;border:1px dashed #C45C4A;padding:16px;margin:32px 0;text-align:center;color:#5C4038;}@media(max-width:600px){.hero{padding:48px 16px 32px;}.plans{flex-direction:column;}nav{font-size:0.95rem;}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><div class=\"hero\"><h1>回声云(EchoCloud)</h1><p>官方机场订阅与 VPN 网络加速服务。多端客户端导入订阅后即可连接全球节点，适合流媒体解锁、游戏加速与跨境办公。</p></div><main><section id=\"intro\"><h2>品牌简介</h2><p>回声云(EchoCloud)面向需要稳定跨境访问的用户，提供机场订阅与梯子加速方案。一次订阅可在电脑、手机与路由器间导入，按套餐享受对应流量、设备数与线路类型。官网集中展示套餐、配置流程与客户端下载说明，方便新用户按步骤完成导入。</p><p>线路包含常规节点池与进阶 IPLC 专线。基础套餐覆盖日常浏览与轻度解锁，旗舰与团队套餐开放原生流媒体策略、游戏优化及更高同时在线数量。节点与规则会随网络环境调整，请以用户中心与客户端更新后的列表为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体观看</h3><p>在支持解锁的节点上访问国际影视与音乐平台，减少地区限制导致的无法播放或清晰度下降。旗舰版强调全节点原生解锁策略，适合长期追剧。</p><h3>游戏与实时对战</h3><p>需要较低延迟与稳定 UDP 时，优先选择带 IPLC 或游戏标签的节点，减轻掉线与高延迟。该能力主要包含在旗舰版与团队版中。</p><h3>远程办公与学习</h3><p>跨境会议、云盘协作与文献数据库访问可走加速通道。多设备同时在线适合家庭或小团队共用同一订阅，注意不要超过套餐设备上限。</p><h3>日常浏览</h3><p>普通线路即可满足搜索、社交与轻量下载。流量按月结算，用尽后可升级套餐或等待重置，避免在高峰时段占用全部额度。</p></section><section id=\"plans\"><h2>套餐与价格</h2><p>可在官网选择按月或按年订阅。年付价格更优惠。下列流量为每月额度，设备数为同时在线上限。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>支付完成后即可复制订阅链接，用于 Clash 等客户端导入。具体节点名称、延迟与解锁标识以控制面板实时数据为准。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>回声云把配置流程拆成可执行的步骤，从订阅到联网通常只需数分钟。请依次完成，并在客户端中开启系统代理或 TUN。</p><div class=\"steps\"><div class=\"step\"><h3>选择套餐并获取订阅</h3><p>在官网对比基础版、旗舰版与团队版的流量、设备数与线路类型后完成支付。用户中心会给出 Clash 或通用订阅地址。请勿公开张贴该地址，以免流量被占用。</p></div><div class=\"step\"><h3>按系统下载客户端</h3><p>前往客户端下载说明，选择与系统匹配的工具。桌面常见 Clash 图形客户端或 v2rayN，移动端使用支持订阅的 Clash 内核或商店应用。只从可信渠道安装，避免来路不明的「一键加速器」安装包。</p></div><div class=\"step\"><h3>导入并更新配置</h3><p>打开客户端的订阅或配置页，粘贴回声云订阅 URL，执行更新。成功后出现按地区或用途分类的节点。若更新失败，检查链接完整性与本地网络后再试。</p></div><div class=\"step\"><h3>选择节点并连接</h3><p>浏览选邻近低延迟节点；流媒体选解锁节点；游戏优先 IPLC。开启系统代理后，浏览器与大部分应用会走加速通道。规则更新后如异常，可先关闭再开启代理。</p></div><div class=\"step\"><h3>核对流量与设备占用</h3><p>在用户中心查看剩余流量与在线设备。同一订阅可导入多台设备，但同时连接数不能超过套餐限制。定期点击客户端更新订阅，以同步最新节点与规则。</p></div></div></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>回声云以机场订阅为主，不捆绑单一品牌安装包。官网下载区域说明各平台常用客户端的获取与导入方式，用户按习惯选择即可。</p><h3>Windows 与 macOS</h3><p>可使用 Clash Verge、Clash Meta 图形版或 v2rayN。导入订阅后开启系统代理或虚拟网卡，按规则分流国内外流量。请保持内核与规则处于较新版本。</p><h3>Android 与 iOS</h3><p>Android 常用 Clash Meta 等兼容客户端；iOS 需使用支持订阅的应用并授予 VPN 权限。导入步骤与桌面类似：粘贴链接、更新、选节点、连接。</p><h3>路由器</h3><p>团队版可将订阅用于 OpenWrt 等环境，实现多设备覆盖。配置时仍受同时在线数量约束，超限会导致新设备无法握手。</p><p>客户端均为第三方工具，回声云只提供订阅数据。官方下载指引用于降低误装风险，请勿相信声称「回声云独立加速器 App」的不明来源。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何在回声云获取机场订阅链接？</summary><p>套餐支付成功后登录用户中心，在订阅详情中复制 Clash 或通用订阅 URL，粘贴到客户端并更新即可拉取节点，不必手动填写单条服务器。</p></details><details><summary>同时在线设备如何计算？超了会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。电脑、手机、平板与路由器都计入。超出后新连接可能失败，断开闲置设备或升级套餐即可。</p></details><details><summary>流量用完能否继续使用或升级？</summary><p>当月额度用尽后连接会受限。可在用户中心升级套餐，说明以页面展示为准。未升级则等待次月额度重置。年付用户同样可以中途升级。</p></details><details><summary>旗舰版流媒体解锁是否保证每个节目都能播？</summary><p>旗舰版与团队版提供原生解锁策略，覆盖常见国际平台。目标站点风控变化时，个别内容可能仍需更换解锁节点或更新客户端规则后再试。</p></details><details><summary>游戏一定要走 IPLC 吗？</summary><p>普通节点也能游戏，但对延迟敏感的对战更建议 IPLC。旗舰版已包含游戏优化线路，请选择带相应标签的节点并开启匹配的路由规则。</p></details><details><summary>订阅更新失败或节点全部超时怎么办？</summary><p>核对链接是否完整，尝试更换网络后再更新。可换用另一款兼容客户端。若持续全红，通过工单提交客户端日志与大致时间，便于排查线路或本地干扰。</p></details><details><summary>官网下载是否有回声云独立客户端？</summary><p>没有强制独立品牌 App。服务形态是机场订阅加第三方客户端。请按官网说明获取 Clash 等工具，不要安装来路不明的「官方加速器」文件。</p></details></section><div class=\"ad-box\"><p><strong>合作展示</strong> 回声云欢迎与内容、硬件及跨境办公场景开展加速合作。本区域为品牌合作信息位，具体事宜通过官网联系通道沟通。</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><div class=\"footer-grid\"><div class=\"footer-col\"><h3>网站地图</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div class=\"footer-col\"><h3>友情链接</h3><ul><li><a href=\"#\">Clash 使用说明</a></li><li><a href=\"#\">网络加速入门</a></li><li><a href=\"#\">流媒体解锁提示</a></li><li><a href=\"#\">多端客户端对照</a></li></ul></div><div class=\"footer-col\"><h3>官方信息</h3><p>回声云(EchoCloud)官方网站提供机场订阅、VPN 梯子网络加速与客户端下载说明。套餐与节点以用户中心实时显示为准。</p></div></div><p>回声云 EchoCloud · 官方网站</p></div></footer>",
+          "hash": "230a0415bb7ba2b5d288e8d66a9657b4fb9ae479ee40e2fda2dcb0218ef113ca",
+          "seo": {
+            "title": "回声云(EchoCloud)官方网站：机场订阅与加速器客户端下载",
+            "keywords": "回声云,EchoCloud,回声云机场,回声云VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash订阅,IPLC",
+            "description": "回声云(EchoCloud)提供高性价比机场订阅与VPN梯子加速，支持多设备在线、全球节点与流媒体解锁，官网可完成客户端下载与配置流程说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wapone.cn",
+    "host": "p-6eb7c25b3c.wapone.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "4u30qb.cn",
+      "url": "https://4u30qb.cn/",
+      "label": "回声云(EchoCloud)",
+      "apex": "4u30qb.cn",
+      "kind": null,
+      "identity": "nvqwmqs/page-f9deef7c111454a8d9943e4f"
+    },
+    {
+      "host": "6zt2nb.cn",
+      "url": "https://6zt2nb.cn/",
+      "label": "回声云(EchoCloud)",
+      "apex": "6zt2nb.cn",
+      "kind": null,
+      "identity": "phynwd/page-0b3e342dae1eb474d1e47216"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c7ccaf59416aaa36cd9c37c7befc2805ae9ce722768ddeab483bad6b778cb3b3",
+    "sitemap.xml": "8d9d97ec35b01c52ce2547ee8c68a4424d00b35da3defb130a5696ac64252004",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a9586836c377724a59ae8bcea86dfde2e4f651e528c995ae245341cbe97dc537",
+    "robots.txt": "fef9e7bb8a2f3e835a1f5f288bf72cccb2990169dbd1372dc4dce636a86109e6",
+    "f35a629872d79636c6a4fc37509db2aa.txt": "08010ee03058cdee34e6adf96f241a38ad04ec8abb27251f86c2e22999e5d47c"
+  },
+  "revision": "0eda83e444e73e7100b24ccd62e3b11256557c40ba55626cd5ab0bfd146231a6"
+}
